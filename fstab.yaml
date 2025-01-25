@@ -1,5 +1,5 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/:f:/r/sites/Senthil_EDS_Demo/Shared%20Documents/starter-content-commerce
+  /: https://adobe.sharepoint.com/:f:/r/sites/Senthil_EDS_Demo/Shared%20Documents/starter-content-commerce?csf=1&web=1&e=pSeCPr
 
 folders:
   /products/: /products/default
