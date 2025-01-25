@@ -1,5 +1,5 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/:f:/r/sites/Senthil_EDS_Demo/Shared%20Documents/eds-commerce-storefront?csf=1&web=1&e=HhSBJL
+  /: https://adobe.sharepoint.com/:f:/r/sites/senthil-eds/Shared%20Documents/eds-commerce-storefront?csf=1&web=1&e=GJxFhU
 
 folders:
   /products/: /products/default
